@@ -1,4 +1,4 @@
-# IMDB_MySQL_to_MongoDB
+# MySQL_to_MongoDB_with_JDBC
 Transfer IMDB data from MySQL to MongoDB using JDBC
 # How to use it
 It is a gradle project, so you can call the scripts in "build\scripts" or load the whole project use your favourite java ide.
